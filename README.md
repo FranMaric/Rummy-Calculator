@@ -1,1 +1,1 @@
-# RummyCalculator
+# Rummy Calculator
