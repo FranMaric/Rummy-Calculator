@@ -6,7 +6,7 @@ I love playing Rummy. I was tired of writing points on paper and calculating it 
 
 Dark mode  
 Multi-language support  
-Up to 11 players
+Up to 11 players  
 MVC code arhitecture - easy to maintain  
 
 ![Screenshot](https://raw.githubusercontent.com/FranMaric/Rummy-Calculator/main/screenshots/new/Screenshot_20200521_183122_fm.developer.rummy.calculator.jpg "Screenshot")
