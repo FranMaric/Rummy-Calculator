@@ -5,6 +5,7 @@ I love playing Rummy. I was tired of writing points on paper and calculating it 
 ### Features:
 
 Dark mode  
+Always on display  
 Multi-language support  
 Up to 11 players  
 MVC code arhitecture - easy to maintain  
