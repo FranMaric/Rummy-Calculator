@@ -9,4 +9,5 @@ Multi-language support
 Up to 11 players  
 MVC code arhitecture - easy to maintain  
 
-![Screenshot](https://raw.githubusercontent.com/FranMaric/Rummy-Calculator/main/screenshots/new/Screenshot_20200521_183122_fm.developer.rummy.calculator.jpg "Screenshot")
+### Try it and please break it :)
+## [Google play download](https://play.google.com/store/apps/details?id=fm.developer.rummy.calculator "Best app ever")
