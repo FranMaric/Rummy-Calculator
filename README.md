@@ -4,6 +4,7 @@ I love playing Rummy. I was tired of writing points on paper and calculating it 
 
 ### Features:
 
+Undo functionality
 Dark mode  
 Always on display  
 Multi-language support  
